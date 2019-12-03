@@ -1,0 +1,48 @@
+2019-12-02 12:30:28,064 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/pom.xml
+2019-12-02 12:30:29,173 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayab.calidad:CalidadOrdinarioFuncionales:0.0.1-SNAPSHOT @ /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/pom.xml.
+2019-12-02 12:30:30,169 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalidadOrdinarioFuncionales/src/main/java
+2019-12-02 12:30:30,171 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CalidadOrdinarioFuncionales/src/test/java
+2019-12-02 12:30:31,107 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-12-02 12:30:32,107 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:30:32,115 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-02 12:30:32,117 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:30:32,117 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-02 12:30:51,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:30:51,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-02 12:30:51,307 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:30:51,307 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-02 12:31:13,071 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:13,071 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-02 12:31:13,073 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:13,073 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-02 12:31:18,972 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:18,973 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-02 12:31:18,974 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:18,974 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-02 12:31:52,780 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayab.calidad:CalidadOrdinarioFuncionales:0.0.1-SNAPSHOT @ /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/pom.xml.
+2019-12-02 12:31:54,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:54,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-02 12:31:54,445 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:54,445 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-02 12:31:56,839 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:56,839 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-02 12:31:56,840 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-02 12:31:56,840 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-03 12:07:56,144 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayab.calidad:CalidadOrdinarioFuncionales:0.0.1-SNAPSHOT @ /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/pom.xml.
+2019-12-03 12:07:59,538 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:07:59,539 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-03 12:07:59,545 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:07:59,545 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-03 12:08:02,210 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mayab.calidad:CalidadOrdinarioFuncionales:0.0.1-SNAPSHOT @ /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/pom.xml.
+2019-12-03 12:08:04,754 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:08:04,755 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-03 12:08:04,757 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:08:04,758 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-03 12:09:27,648 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:09:27,649 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-03 12:09:27,650 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:09:27,650 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
+2019-12-03 12:10:19,971 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:10:19,971 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/main/resources
+2019-12-03 12:10:19,972 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-03 12:10:19,973 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cardinal/CalidadOrdinarioFuncionales/CalidadOrdinarioFuncionales/src/test/resources
